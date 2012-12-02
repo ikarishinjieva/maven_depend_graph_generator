@@ -1,7 +1,7 @@
 maven_depend_graph_generator
 ============================
 # Preview
-![output](https://github.com/ikarishinjieva/maven_depend_graph_generator/blob/master/diagram.dot.png)
+![output](https://raw.github.com/ikarishinjieva/maven_depend_graph_generator/master/diagram.dot.png)
 # Feature
 1. Could include multiple pom files
 2. Could ignore some of artifacts, you can specific the ignore list
