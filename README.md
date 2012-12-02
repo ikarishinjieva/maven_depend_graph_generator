@@ -2,9 +2,11 @@ maven_depend_graph_generator
 ============================
 # Preview
 ![output](https://raw.github.com/ikarishinjieva/maven_depend_graph_generator/master/diagram.dot.png)
+
 # Feature
 1. Could include multiple pom files
 2. Could ignore some of artifacts, you can specific the ignore list
+
 # HOW to use
 1. Install a dot graph generator. Recommand [Graphviz](http://graphviz.org)
 2. Make sure you have a ruby and rake installed.
